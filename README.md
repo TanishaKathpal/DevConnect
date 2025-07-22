@@ -1,1 +1,3 @@
 # DevConnect
+
+This is a React app to manage developer profiles...
