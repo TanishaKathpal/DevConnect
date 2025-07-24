@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react
 import ContactForm from './components/ContactForm';
 import DeveloperTable from './components/DeveloperTable';
 import styles from './styles/App.module.css';
-import DeveloperProfile from './components/DeveloperProfile';
+import Profile from './components/DeveloperProfile';
 
 function AppWrapper() {
   return (
@@ -101,7 +101,7 @@ function App() {
             </>
           }
         />
-        <Route path="/profile/:id" element={<DeveloperProfile contacts={contacts} />} />
+        <Route path="/profile/:id" element={<Profile contacts={contacts} />} />
       </Routes>
     </div>
   );
