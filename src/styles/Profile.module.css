@@ -1,0 +1,68 @@
+.profileContainer {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+
+.profileHeading {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #6a0dad;
+}
+
+.profileInfo {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #444;
+}
+
+.profileLabel {
+  font-weight: bold;
+  color: #333;
+}
+
+.backButton {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #6a0dad;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.backButton:hover {
+  background-color: #4c2882;
+}
+.profileContent {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  flex-wrap: wrap; 
+  margin-top: 1rem;
+}
+
+.profileImage {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: top; 
+  border-radius: 50%;
+  border: 3px solid #6b46c1;
+  margin-bottom: 1rem;
+}
+
+
+.profileInfo {
+  flex: 1;
+  font-size: 1rem;
+}
+
+.profileLabel {
+  font-weight: bold;
+  color: #333;
+}
