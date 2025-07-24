@@ -1,4 +1,4 @@
-
+'use client';
 import React from 'react';
 import styles from '../styles/DeveloperTable.module.css';
 import { Link } from 'react-router-dom';
