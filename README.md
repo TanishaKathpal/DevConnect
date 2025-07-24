@@ -9,7 +9,7 @@ DevConnect is a modern React application designed to help users add, view, searc
 ---
 
 
-## 🛠️ Features
+##  Features
 
 -  Add new developer contact
 -  Edit existing entries
