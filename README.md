@@ -1,6 +1,6 @@
 #  DevConnect
 
-DevConnect is a modern React application designed to help users add, view, search, and manage developer contacts. It's a lightweight developer directory where you can store names, GitHub links, skills, and other relevant information — all stored locally in your browser.
+DevConnect is a modern React application designed to help users add, view, search, and manage developer contacts. It's a lightweight developer directory where you can store names, GitHub links, skills, and other relevant information —all stored locally in your browser.
 
 ##  Live Demo
 
